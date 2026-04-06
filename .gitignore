@@ -1,0 +1,56 @@
+# =========================
+# Python cache & compiled files
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environment
+# =========================
+env/
+venv/
+ENV/
+
+# =========================
+# Environment variables (secrets)
+# =========================
+.env
+.env.*
+
+# =========================
+# Distribution / packaging
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Logs & database
+# =========================
+*.log
+*.sqlite3
+
+# =========================
+# Jupyter Notebook checkpoints
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# VS Code / IDE settings
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Misc
+# =========================
+*.swp
+*.swo
